@@ -1,4 +1,4 @@
-module github.com/rpcxio/protoc-gen-rpcx
+module github.com/cyjaysong/protoc-gen-rpcx
 
 go 1.18
 
